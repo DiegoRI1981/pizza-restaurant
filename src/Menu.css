@@ -1,0 +1,26 @@
+/* Menu.css */
+.Menu {
+    background-color: grey;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.Menu h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.Menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.Menu li {
+    margin-bottom: 20px;
+
+}
+
+.Menu p {
+    font-size: 16px;
+    color: #666;
+}
